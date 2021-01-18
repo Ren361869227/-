@@ -1,0 +1,16 @@
+C:\Users\a'su's\Desktop\Demo_Piece_Api\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\a'su's\Desktop\Demo_Piece_Api\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\a'su's\Desktop\Demo_Piece_Api\DAL\bin\Debug\DAL.dll.config
+C:\Users\a'su's\Desktop\Demo_Piece_Api\DAL\bin\Debug\DAL.dll
+C:\Users\a'su's\Desktop\Demo_Piece_Api\DAL\bin\Debug\DAL.pdb
+C:\Users\a'su's\Desktop\Demo_Piece_Api\DAL\bin\Debug\DataModel.dll
+C:\Users\a'su's\Desktop\Demo_Piece_Api\DAL\bin\Debug\EntityFramework.dll
+C:\Users\a'su's\Desktop\Demo_Piece_Api\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\a'su's\Desktop\Demo_Piece_Api\DAL\bin\Debug\DataModel.pdb
+C:\Users\a'su's\Desktop\Demo_Piece_Api\DAL\bin\Debug\DataModel.dll.config
+C:\Users\a'su's\Desktop\Demo_Piece_Api\DAL\bin\Debug\EntityFramework.xml
+C:\Users\a'su's\Desktop\Demo_Piece_Api\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\a'su's\Desktop\Demo_Piece_Api\DAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\a'su's\Desktop\Demo_Piece_Api\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\a'su's\Desktop\Demo_Piece_Api\DAL\obj\Debug\DAL.dll
+C:\Users\a'su's\Desktop\Demo_Piece_Api\DAL\obj\Debug\DAL.pdb
